@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    padding: 5rem;
+}
+.active{
+    font-weight: 600;
+}
+h2 a{
+    color: rgb(36, 96, 149) !important;
+    font-weight: 700 !important;
+}
+.sub-title{
+    color: #337ab7;
+    font-weight: 500;  
+}
+.container{
+    margin-bottom: 2rem;
+}
